@@ -272,67 +272,10 @@ text-decoration: none;
 #align-card{
 margin:10px 0px 15px 50px;
 }
-/* Media query for screens between 601 and 900 pixels */
-@media screen and (min-width: 601px) and (max-width: 900px) {
-  /* #h1{
-    margin-left: 50px;
-    font-size: 30px;
-    margin-top: 20px;
-    color: white;
-  }
-  .overview{
-    display: grid;
-    margin-top: 20px;
-    background-color: #211e3b;
-    }
-    .img1{
-     
-      height: 200px;
-      width: 200px;
-      display: block;
-      margin-left: auto;
-      margin-right: auto;
-      margin-top:10px;
-    } */
-}
 
 /* Media query for screens larger than 900 pixels */
 @media screen and (min-width: 901px) {
  
-}
-
-
-
-
-
-
-  /* content: "|";
-  position: absolute;
-  height: 100%;
-  width: ;
-  right: 0;
-  color: rgb(29, 31, 31);
-  background-color: white;
-  width: 100%;
-  animation: typing 4s steps(15) alternate infinite,
-                    line 1s infinite;
-
-}
-
-@keyframes typing{
-  to{
-    width: 0%;
-  }
-}
-
-@keyframes line{
-  50%{
-    color: transparent;
-  }
-} */
-
-
-
 #bg{
   background-color: #55257a;
 }
